@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CA60254D2B0FE809009FC4CA /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CA60254C2B0FE809009FC4CA /* Launch Screen.storyboard */; };
+		CA60254F2B1018A6009FC4CA /* AtarefadoLOGO - cópia.png in Resources */ = {isa = PBXBuildFile; fileRef = CA60254E2B1018A6009FC4CA /* AtarefadoLOGO - cópia.png */; };
 		CA674CB02B07B38800D7D7DD /* TaskappApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA674CAF2B07B38800D7D7DD /* TaskappApp.swift */; };
 		CA674CB22B07B38800D7D7DD /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA674CB12B07B38800D7D7DD /* MainView.swift */; };
 		CA674CB42B07B38A00D7D7DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA674CB32B07B38A00D7D7DD /* Assets.xcassets */; };
@@ -60,6 +61,7 @@
 
 /* Begin PBXFileReference section */
 		CA60254C2B0FE809009FC4CA /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		CA60254E2B1018A6009FC4CA /* AtarefadoLOGO - cópia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "AtarefadoLOGO - cópia.png"; path = "../../../../screen/AtarefadoLOGO - cópia.png"; sourceTree = "<group>"; };
 		CA674CAC2B07B38800D7D7DD /* Taskapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Taskapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA674CAF2B07B38800D7D7DD /* TaskappApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskappApp.swift; sourceTree = "<group>"; };
 		CA674CB12B07B38800D7D7DD /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
@@ -200,6 +202,7 @@
 		CA674CCF2B07CC5700D7D7DD /* Other */ = {
 			isa = PBXGroup;
 			children = (
+				CA60254E2B1018A6009FC4CA /* AtarefadoLOGO - cópia.png */,
 				CA674CF62B0804CB00D7D7DD /* GoogleService-Info.plist */,
 				CA674CAF2B07B38800D7D7DD /* TaskappApp.swift */,
 				CA674CB32B07B38A00D7D7DD /* Assets.xcassets */,
@@ -300,6 +303,7 @@
 				CA674CB72B07B38A00D7D7DD /* Preview Assets.xcassets in Resources */,
 				CA674CB42B07B38A00D7D7DD /* Assets.xcassets in Resources */,
 				CA60254D2B0FE809009FC4CA /* Launch Screen.storyboard in Resources */,
+				CA60254F2B1018A6009FC4CA /* AtarefadoLOGO - cópia.png in Resources */,
 				CA674CF72B0804CB00D7D7DD /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
