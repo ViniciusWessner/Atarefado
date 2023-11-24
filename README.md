@@ -10,3 +10,8 @@ Bem-vindo ao ATAREFADO, seu novo assistente pessoal para gestão de tarefas e le
 - Delete suas tarefas apenas arrastando para o lado.
 
 # Capturas de tela do projeto
+
+<img src="https://github.com/ViniciusWessner/Atarefado/blob/main/Taskapp/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-11-23%20at%2019.34.20%202.png?raw=true" width="180">&emsp;
+<img src="https://github.com/ViniciusWessner/Atarefado/blob/main/Taskapp/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-11-23%20at%2019.31.49.png?raw=true" width="180">&emsp;
+<img src="https://github.com/ViniciusWessner/Atarefado/blob/main/Taskapp/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-11-23%20at%2019.31.56.png?raw=true" width="180">&emsp;
+<img src="https://github.com/ViniciusWessner/Atarefado/blob/main/Taskapp/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-11-23%20at%2019.30.01.png?raw=true" width="180">&emsp;
